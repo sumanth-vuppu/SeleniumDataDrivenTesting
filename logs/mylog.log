@@ -1,0 +1,20 @@
+DEBUG LoggerExample - debug message
+ERROR LoggerExample - error message/ by zero
+INFO  LoggerExample - reached up to printing a variable data
+WARN  LoggerExample - warning messages
+FATAL LoggerExample - driver initialization failed
+DEBUG LoggerExample - debug message
+ERROR LoggerExample - error message/ by zero
+INFO  LoggerExample - reached up to printing a variable data
+WARN  LoggerExample - warning messages
+FATAL LoggerExample - driver initialization failed
+2024-03-07 15:10:36 DEBUG LoggerExample - debug message
+2024-03-07 15:10:36 ERROR LoggerExample - error message/ by zero
+2024-03-07 15:10:36 INFO  LoggerExample - reached up to printing a variable data
+2024-03-07 15:10:36 WARN  LoggerExample - warning messages
+2024-03-07 15:10:36 FATAL LoggerExample - driver initialization failed
+2024-03-07 15:18:24 DEBUG LoggerExample - debug message
+2024-03-07 15:18:24 ERROR LoggerExample - error message/ by zero
+2024-03-07 15:18:24 INFO  LoggerExample - reached up to printing a variable data
+2024-03-07 15:18:24 WARN  LoggerExample - warning messages
+2024-03-07 15:18:24 FATAL LoggerExample - driver initialization failed
