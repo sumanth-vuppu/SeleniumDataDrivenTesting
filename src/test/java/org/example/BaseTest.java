@@ -18,6 +18,8 @@ static WebDriver driver;
     }
 
     //quitDriver method is used to close selenium webdriver
+    //adding comment in second line
+
     @AfterMethod(enabled = false)
     public void quitDriver(){
         if(driver!=null){
