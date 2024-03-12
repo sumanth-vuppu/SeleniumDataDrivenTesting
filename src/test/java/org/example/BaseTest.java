@@ -17,6 +17,7 @@ static WebDriver driver;
 
     }
 
+    //quitDriver method is used to close selenium webdriver
     @AfterMethod(enabled = false)
     public void quitDriver(){
         if(driver!=null){
